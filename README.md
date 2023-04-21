@@ -1,4 +1,4 @@
-[![MasterHead(https://media.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif)]]
+[![MasterHead](https://media.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif)]
 <h1 align="center">Aaditya Patil</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
