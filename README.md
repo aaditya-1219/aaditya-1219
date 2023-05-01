@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="animated" height="auto" width="450px"/>
+<img src="https://media.tenor.com/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="animated" height="auto" width="320px"/>
 </p>
 <h1 align="center">Aaditya Patil</h1>
 <h3 align="center">Full-Stack Developer</h3>
