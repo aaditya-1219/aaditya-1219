@@ -5,7 +5,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 - 🌱 Currently learning **web development**
-- ⚡ Interested in **gaming** and **metal music**
+- ⚡ Interested in **gaming** and **music**
 - 📫 Reach me at **aadityapatil1910@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
